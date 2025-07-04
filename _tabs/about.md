@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
->sigh
-{: .prompt-tip }
+sigh
