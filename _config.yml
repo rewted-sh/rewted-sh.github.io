@@ -24,7 +24,7 @@ description: penetration testing & red teaming  # used by seo meta and the atom 
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://rewted-sh.github.io"
+url: "https://blog.rewted.sh"
 
 github:
   username: apbjnr # change to your GitHub username
